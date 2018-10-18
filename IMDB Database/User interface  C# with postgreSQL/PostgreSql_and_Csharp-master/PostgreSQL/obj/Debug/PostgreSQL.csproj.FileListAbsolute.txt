@@ -1,0 +1,97 @@
+C:\Users\Teo\Desktop\PostgreSql_and_Csharp-master\PostgreSQL\bin\Debug\PostgreSQL.exe.config
+C:\Users\Teo\Desktop\PostgreSql_and_Csharp-master\PostgreSQL\bin\Debug\PostgreSQL.exe
+C:\Users\Teo\Desktop\PostgreSql_and_Csharp-master\PostgreSQL\bin\Debug\PostgreSQL.pdb
+C:\Users\Teo\Desktop\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.csprojResolveAssemblyReference.cache
+C:\Users\Teo\Desktop\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Form1.resources
+C:\Users\Teo\Desktop\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.Properties.Resources.resources
+C:\Users\Teo\Desktop\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.csproj.GenerateResource.cache
+C:\Users\Teo\Desktop\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.csproj.CoreCompileInputs.cache
+C:\Users\Teo\Desktop\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.csproj.CopyComplete
+C:\Users\Teo\Desktop\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.exe
+C:\Users\Teo\Desktop\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.pdb
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSQL\bin\Debug\PostgreSQL.exe.config
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSQL\bin\Debug\PostgreSQL.exe
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSQL\bin\Debug\PostgreSQL.pdb
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.csprojResolveAssemblyReference.cache
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Form1.resources
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.Properties.Resources.resources
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.csproj.GenerateResource.cache
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.csproj.CoreCompileInputs.cache
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.csproj.CopyComplete
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.exe
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.pdb
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Form2.resources
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.acted.resources
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\bin\Debug\PostgreSQL.exe.config
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\bin\Debug\PostgreSQL.exe
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\bin\Debug\PostgreSQL.pdb
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.csprojResolveAssemblyReference.cache
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.acted.resources
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Form1.resources
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Form2.resources
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.Properties.Resources.resources
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.csproj.GenerateResource.cache
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.csproj.CoreCompileInputs.cache
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.csproj.CopyComplete
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.exe
+C:\Users\Teo\Desktop\VasisKodikas\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.pdb
+C:\Users\Teo\Desktop\Base\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\bin\Debug\PostgreSQL.exe.config
+C:\Users\Teo\Desktop\Base\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\bin\Debug\PostgreSQL.exe
+C:\Users\Teo\Desktop\Base\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\bin\Debug\PostgreSQL.pdb
+C:\Users\Teo\Desktop\Base\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.csprojResolveAssemblyReference.cache
+C:\Users\Teo\Desktop\Base\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.acted.resources
+C:\Users\Teo\Desktop\Base\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Actor.resources
+C:\Users\Teo\Desktop\Base\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Form2.resources
+C:\Users\Teo\Desktop\Base\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.Properties.Resources.resources
+C:\Users\Teo\Desktop\Base\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.csproj.GenerateResource.cache
+C:\Users\Teo\Desktop\Base\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.csproj.CoreCompileInputs.cache
+C:\Users\Teo\Desktop\Base\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.csproj.CopyComplete
+C:\Users\Teo\Desktop\Base\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.exe
+C:\Users\Teo\Desktop\Base\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.pdb
+C:\Users\Teo\Desktop\Base\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Category.resources
+C:\Users\Teo\Desktop\Base\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Director.resources
+C:\Users\Teo\Desktop\Base\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Favorited.resources
+C:\Users\Teo\Desktop\Base\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Imdb_user.resources
+C:\Users\Teo\Desktop\Base\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Movie.resources
+C:\Users\Teo\Desktop\Base\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Produced_by.resources
+C:\Users\Teo\Desktop\Base\PostgreSql_and_Csharp-master\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Production.resources
+C:\Users\Aris\Desktop\teliko\PostgreSql_and_Csharp-master\PostgreSQL\bin\Debug\PostgreSQL.exe.config
+C:\Users\Aris\Desktop\teliko\PostgreSql_and_Csharp-master\PostgreSQL\bin\Debug\PostgreSQL.exe
+C:\Users\Aris\Desktop\teliko\PostgreSql_and_Csharp-master\PostgreSQL\bin\Debug\PostgreSQL.pdb
+C:\Users\Aris\Desktop\teliko\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.csprojAssemblyReference.cache
+C:\Users\Aris\Desktop\teliko\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.acted.resources
+C:\Users\Aris\Desktop\teliko\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Actor.resources
+C:\Users\Aris\Desktop\teliko\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Category.resources
+C:\Users\Aris\Desktop\teliko\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Director.resources
+C:\Users\Aris\Desktop\teliko\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Favorited.resources
+C:\Users\Aris\Desktop\teliko\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Form2.resources
+C:\Users\Aris\Desktop\teliko\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Imdb_user.resources
+C:\Users\Aris\Desktop\teliko\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Movie.resources
+C:\Users\Aris\Desktop\teliko\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Produced_by.resources
+C:\Users\Aris\Desktop\teliko\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Production.resources
+C:\Users\Aris\Desktop\teliko\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.Properties.Resources.resources
+C:\Users\Aris\Desktop\teliko\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.csproj.GenerateResource.cache
+C:\Users\Aris\Desktop\teliko\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.csproj.CoreCompileInputs.cache
+C:\Users\Aris\Desktop\teliko\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.csproj.CopyComplete
+C:\Users\Aris\Desktop\teliko\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.exe
+C:\Users\Aris\Desktop\teliko\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.pdb
+C:\Users\Teo\Desktop\ParadoteoVasis\Kodikas Vasis C#\PostgreSql_and_Csharp-master\PostgreSQL\bin\Debug\PostgreSQL.exe.config
+C:\Users\Teo\Desktop\ParadoteoVasis\Kodikas Vasis C#\PostgreSql_and_Csharp-master\PostgreSQL\bin\Debug\PostgreSQL.exe
+C:\Users\Teo\Desktop\ParadoteoVasis\Kodikas Vasis C#\PostgreSql_and_Csharp-master\PostgreSQL\bin\Debug\PostgreSQL.pdb
+C:\Users\Teo\Desktop\ParadoteoVasis\Kodikas Vasis C#\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.csprojResolveAssemblyReference.cache
+C:\Users\Teo\Desktop\ParadoteoVasis\Kodikas Vasis C#\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.acted.resources
+C:\Users\Teo\Desktop\ParadoteoVasis\Kodikas Vasis C#\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Actor.resources
+C:\Users\Teo\Desktop\ParadoteoVasis\Kodikas Vasis C#\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Category.resources
+C:\Users\Teo\Desktop\ParadoteoVasis\Kodikas Vasis C#\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Director.resources
+C:\Users\Teo\Desktop\ParadoteoVasis\Kodikas Vasis C#\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Favorited.resources
+C:\Users\Teo\Desktop\ParadoteoVasis\Kodikas Vasis C#\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Form2.resources
+C:\Users\Teo\Desktop\ParadoteoVasis\Kodikas Vasis C#\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Imdb_user.resources
+C:\Users\Teo\Desktop\ParadoteoVasis\Kodikas Vasis C#\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Movie.resources
+C:\Users\Teo\Desktop\ParadoteoVasis\Kodikas Vasis C#\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Produced_by.resources
+C:\Users\Teo\Desktop\ParadoteoVasis\Kodikas Vasis C#\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PgSql.Production.resources
+C:\Users\Teo\Desktop\ParadoteoVasis\Kodikas Vasis C#\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.Properties.Resources.resources
+C:\Users\Teo\Desktop\ParadoteoVasis\Kodikas Vasis C#\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.csproj.GenerateResource.cache
+C:\Users\Teo\Desktop\ParadoteoVasis\Kodikas Vasis C#\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.csproj.CoreCompileInputs.cache
+C:\Users\Teo\Desktop\ParadoteoVasis\Kodikas Vasis C#\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.csproj.CopyComplete
+C:\Users\Teo\Desktop\ParadoteoVasis\Kodikas Vasis C#\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.exe
+C:\Users\Teo\Desktop\ParadoteoVasis\Kodikas Vasis C#\PostgreSql_and_Csharp-master\PostgreSQL\obj\Debug\PostgreSQL.pdb
